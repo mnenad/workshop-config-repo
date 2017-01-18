@@ -4,9 +4,7 @@ eureka:
 
 fortuneService:
   scheme: http
-  #address: fortuneservice-ultramodern-baldachin.cfapps.pez.pivotal.io
-  #randomFortunePath: api/fortunes/random
-  #allFortunesPath: api/fortunes/all
   address: fortuneService
+  #address: fortuneservice-ultramodern-baldachin.cfapps.pez.pivotal.io
   randomFortunePath: api/fortunes/random
   allFortunesPath: api/fortunes/all
