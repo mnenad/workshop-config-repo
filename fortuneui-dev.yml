@@ -1,1 +1,9 @@
+eureka:
+  client:
+    shouldRegisterWithEureka: false
 
+fortuneService:
+  scheme: http
+  address: fortuneservice-fencelike-propeller.cfapps.haas-72.pez.pivotal.io
+  randomFortunePath: api/fortunes/random
+  allFortunesPath: api/fortunes/all
