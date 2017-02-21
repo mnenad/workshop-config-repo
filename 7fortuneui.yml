@@ -1,0 +1,9 @@
+eureka:
+  client:
+    shouldRegisterWithEureka: false
+
+fortuneService:
+  scheme: http
+  address: 7fortuneService
+  randomFortunePath: api/fortunes/random
+  allFortunesPath: api/fortunes/all
