@@ -4,6 +4,6 @@ eureka:
 
 fortuneService:
   scheme: http
-  address: fortuneService
+  address: fortuneService2
   randomFortunePath: api/fortunes/random
   allFortunesPath: api/fortunes/all
