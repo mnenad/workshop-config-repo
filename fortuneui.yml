@@ -4,6 +4,6 @@ eureka:
 
 fortuneService:
   scheme: http
-  address: fortuneservice-unfoamed-presubjection.cfapps.haas-72.pez.pivotal.io
+  address: fortuneservice-fencelike-propeller.cfapps.haas-72.pez.pivotal.io
   randomFortunePath: api/fortunes/random
   allFortunesPath: api/fortunes/all
