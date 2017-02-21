@@ -1,9 +1,0 @@
-eureka:
-  client:
-    shouldRegisterWithEureka: false
-
-fortuneService:
-  scheme: http
-  address: fortuneservice-tertial-golosh.cfapps.haas-72.pez.pivotal.io
-  randomFortunePath: api/fortunes/random
-  allFortunesPath: api/fortunes/all
