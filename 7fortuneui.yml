@@ -4,6 +4,6 @@ eureka:
 
 fortuneService:
   scheme: http
-  address: fortuneservice-clairvoyant-birth.cfapps.io
+  address: fortuneservice-clairvoyant-birth
   randomFortunePath: api/fortunes/random
   allFortunesPath: api/fortunes/all
