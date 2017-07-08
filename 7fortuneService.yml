@@ -2,5 +2,5 @@ eureka:
   client: 
     shouldFetchRegistry: false
   instance:
-    port: 5000
-    hostName: localhost
+    port: 
+    hostName: fortuneservice-unpaginal-lactone.apps.astakhov.pcfgcp.almirex.com
